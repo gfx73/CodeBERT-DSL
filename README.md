@@ -8,3 +8,7 @@ The main code is available [here](codebertdsl.ipynb). It is also published in [K
 
 ## Model weights
 Model weights are acessible on [Kaggle](https://www.kaggle.com/datasets/aidarkhuzin/final-weights).
+
+# Text of my work
+Thesis in [English](thesis.pdf).
+Thesis annotation in [Russian](annotation.pdf).
